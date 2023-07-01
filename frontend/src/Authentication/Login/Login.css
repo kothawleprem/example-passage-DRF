@@ -1,0 +1,11 @@
+.loginCard{
+    border-radius: 10px;
+    border-color: #0F172A;
+    border-width: 5px;
+}
+.welcome{
+    font-family: 'Newsreader', serif;
+}
+.container{
+    margin-top: 100px;
+}
